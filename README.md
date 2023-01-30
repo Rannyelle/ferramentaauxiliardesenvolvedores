@@ -2,5 +2,5 @@
 
 <h1 id="Sobre" align="center">projeto criado com intuito de auxiliar desenvolvedores com ferramentas do css</h1>
        
-<h4 id="Sobre" align="center"> essa ferramenta ajuda a encontrar mais rápido a
-             propriedade que precisamos alterar.</h4>
+<h4 id="Sobre" align="center">🦾	 essa ferramenta ajuda a encontrar mais rápido a
+             propriedade que precisamos alterar🦾	.</h4>
