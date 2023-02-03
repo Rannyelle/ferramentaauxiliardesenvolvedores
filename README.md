@@ -5,8 +5,9 @@
 <h4 id="Sobre" align="center">🦾	 essa ferramenta ajuda a encontrar mais rápido a
              propriedade que precisamos alterar🦾	.</h4>
 
-<h4 id="Sobre" align="center">💻Tecnologias ultilizadas:
+<h4 id="Sobre" align="center">💻Tecnologias ultilizadas:<h4>
 
+<h4 id="Sobre" align="center">
 <img align="" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 
